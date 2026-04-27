@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://اســم_مستخدمك.github.io/nnaa7004/</loc>
+    <lastmod>2026-04-27</lastmod>
     <image:image>
-      <image:loc>https://yourdomain.com/gooh1.jpg</image:loc>
-      <image:title>Gooh Image 1</image:title>
+      <image:loc>https://اســم_مستخدمك.github.io/nnaa7004/nnaa7004-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://yourdomain.com/gooh2.jpg</image:loc>
-      <image:title>Gooh Image 2</image:title>
+      <image:loc>https://اســم_مستخدمك.github.io/nnaa7004/nnaa7004-2.jpg</image:loc>
     </image:image>
-    </url>
+    <image:image>
+      <image:loc>https://اســم_مستخدمك.github.io/nnaa7004/nnaa7004-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://اســم_مستخدمك.github.io/nnaa7004/nnaa7004-4.jpg</image:loc>
+    </image:image>
+  </url>
 </urlset>
