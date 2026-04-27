@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.webp$
+
+Sitemap: https://yourdomain.com/sitemap.xml
